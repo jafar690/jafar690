@@ -26,16 +26,16 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="https://medium.com/@zluvsand">
+            <td><a href="https://www.linkedin.com/in/gakami/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+            <td><a href="https://twitter.com/GakamiBenjamin">
             <img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/>
             </a></td>
-            <td><a href="https://www.linkedin.com/in/zluvsand/">
+            <td><a href="https://www.instagram.com/benjamin_gakami">
             <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" />
             </a></td>
-            <td><a href="https://www.linkedin.com/in/zluvsand/">
+            <td><a href="mailto:hello@bengakami.me">
             <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" />
             </a></td>
         </tr>
